@@ -1,6 +1,6 @@
 # Guardamos la vida y el nombre del jugador en variables
 vida = 100
-personaje = "Ernesto"
+personaje = "Brenda"
 escudo = 50
 multiplicador_escudo = 0.5
 
