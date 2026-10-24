@@ -1,6 +1,6 @@
 🏆 PYTHON QUEST COMPLETADO 🏆
 
-Jugador: Jeffer
+Jugador: Brenda
 
 ████████████████████ 100%
 
